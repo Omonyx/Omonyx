@@ -23,7 +23,7 @@ jobs:
       - name: Run update script
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          # optional: USERNAME: 'ton-username'
+          GITHUB_ACTOR: "Omonyx"
         run: node update-readme.js
 
       - name: Commit changed README
