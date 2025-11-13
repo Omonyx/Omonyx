@@ -20,18 +20,18 @@
                     <div>
                         <img style="width: 40em;" src="./name.png" alt="All Languages">
                     </div>
-                    <div style="display: flex; justify-content: space-between; align-items: center; width: 95%;">
-                        <img style="width: 4em;" src="./python.png" alt="Python">
-                        <img style="width: 4em;" src="./html5.png" alt="HTML5">
-                        <img style="width: 4em;" src="./css3.png" alt="CSS3">
-                        <img style="width: 4em;" src="./js.png" alt="JavaScript">
-                        <img style="width: 4em;" src="./react.png" alt="React JS">
-                        <img style="width: 4em;" src="./cpp.png" alt="C++">
-                        <img style="width: 4em;" src="./latex.png" alt="LaTeX">
-                        <img style="width: 4em;" src="./vscode.png" alt="Visual Studio Code">
-                        <img style="width: 4em;" src="./node.svg" alt="Node JS">
-                        <img style="width: 4em;" src="./git.png" alt="Git">
-                    </div>
+                    <p align="center" style="display: flex; justify-content: space-between; align-items: center; width: 95%;">
+                        <a href="https://www.python.org/" target="_blank"><img style="width: 4em;" src="./python.png" alt="Python"></a>
+                        <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="width: 4em;" src="./html5.png" alt="HTML5"></a>
+                        <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img style="width: 4em;" src="./css3.png" alt="CSS3"></a>
+                        <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img style="width: 4em;" src="./js.png" alt="JavaScript"></a>
+                        <a href="https://react.dev/" target="_blank"><img style="width: 4em;" src="./react.png" alt="React JS"></a>
+                        <a href="https://cplusplus.com/" target="_blank"><img style="width: 4em;" src="./cpp.png" alt="C++"></a>
+                        <a href="https://www.latex-project.org/" target="_blank"><img style="width: 4em;" src="./latex.png" alt="LaTeX"></a>
+                        <a href="https://code.visualstudio.com/" target="_blank"><img style="width: 4em;" src="./vscode.png" alt="Visual Studio Code"></a>
+                        <a href="https://nodejs.org/en" target="_blank"><img style="width: 4em;" src="./node.svg" alt="Node JS"></a>
+                        <a href="https://git-scm.com/" target="_blank"><img style="width: 4em;" src="./git.png" alt="Git"></a>
+                    </p>
                 </div>
             </td>
         </tr>
