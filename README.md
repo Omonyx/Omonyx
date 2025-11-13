@@ -18,7 +18,7 @@
             <td colspan="4" style=" align-items: center; text-align: center; color: #7F3ACE; background-color: black; border-radius: 10px; border: solid #E4E2E2 2px; padding: 2em;">
                 <div style="display: flex; flex-direction: column; align-items: center;">
                     <div>
-                        <img style="width: 40em;" src="./name.png" alt="All Languages">
+                        <img align="center" style="width: 40em;" src="./name.png" alt="All Languages">
                     </div>
                     <p align="center" style="display: flex; justify-content: space-between; align-items: center; width: 95%;">
                         <a href="https://www.python.org/" target="_blank"><img style="width: 4em;" src="./python.png" alt="Python"></a>
